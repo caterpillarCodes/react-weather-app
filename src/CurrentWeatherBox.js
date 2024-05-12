@@ -18,6 +18,7 @@ export default function CurrentWeatherBox() {
       <p className="current-temperature">
         <span id="temperature">17</span>°<span id="temperature-unit">C</span>
         <sub style={{ fontSize: "25px" }}>
+          |
           <a href="/" id="unit-sub">
             °F
           </a>
