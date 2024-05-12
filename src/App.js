@@ -36,9 +36,16 @@ function App() {
           </div>
         </div>
       </div>
-      <p>
-        <a>open source</a> code by caterpillar
-      </p>
+      <footer className="link-github">
+        this project was coded by caterpillar and is &nbsp;
+        <a
+          href="https://github.com/caterpillarCodes/react-weather-app"
+          target="_blank"
+          rel="noopenner noreferrer"
+        >
+          open-sourced on github
+        </a>
+      </footer>
     </div>
   );
 }
