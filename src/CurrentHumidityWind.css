@@ -1,0 +1,17 @@
+.CurrentHumidityWind {
+  font-size: 17px;
+  max-width: 70%;
+  border-radius: 10% 50% 10% 50%;
+  box-shadow: -8px -5px 10px -1px rgb(250, 239, 230),
+    10px 5px 10px -1px rgb(245, 217, 200);
+  margin: 70px 5px;
+  padding: 1em 1.5em;
+  transition: all 250ms ease-in-out;
+}
+.CurrentHumidityWind:hover {
+  background-color: #ffe8da;
+  box-shadow: -10px -10px 10px -1px rgba(253, 231, 217, 0.7),
+    10px 10px 10px -1px rgba(245, 217, 200, 0.16),
+    inset -5px -5px 10px -1px rgba(255, 255, 255, 0.5),
+    inset 5px 5px 10px -1px rgba(161, 90, 46, 0.16);
+}

@@ -1,0 +1,26 @@
+.next-day-forecast {
+  text-align: center;
+  padding: 12px;
+  margin: 12px 6px 12px 10px;
+}
+h5 {
+  margin: 18px auto 10px auto;
+  color: #161618;
+  opacity: 0.6;
+}
+.next-day-situation {
+  margin: 14px auto 10px auto;
+  font-size: 12px;
+  color: #696a6c;
+}
+i.fa-cloud {
+  font-size: 22px;
+}
+span {
+  margin: 36px auto 36px auto;
+  font-size: 22px;
+  color: #1e3050;
+}
+.temperature-min {
+  opacity: 0.5;
+}
